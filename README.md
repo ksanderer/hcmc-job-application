@@ -1,16 +1,19 @@
-## Job application task.
+## Job application task
 
 Your task would be to show how fast and efficiently you can
-do research on how to obtain required data
-from the given source and plug into it.
+do your own research and then implement it into the working code.
+
+#### Paid task
+
+You will be paid at $10/hour if the task is successfully done.
 
 #### Example
 
 In this repo you can find an example reddit data parser.
 
-#### Run
-
 ```
+# run script
+
 python3 -m daemon
 ```
 

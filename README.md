@@ -11,9 +11,9 @@ You will be paid at $10/hour if the task is successfully done.
 
 In this repo you can find an example reddit data parser.
 
-#### Run
-
 ```
+# run script
+
 python3 -m daemon
 ```
 

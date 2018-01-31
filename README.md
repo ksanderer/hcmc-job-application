@@ -13,3 +13,16 @@ In this repo you can find an example reddit data parser.
 ```
 python3 -m daemon
 ```
+
+#### On complete
+
+Send me a link to the repo :)
+
+We have at least 4 development directions
+- data parsers
+- django panel for data entry managers
+- raw data processing and metrics calculations
+- frontend data viewer
+
+Think of what do you prefer and where your skills would be the most applicable.
+
